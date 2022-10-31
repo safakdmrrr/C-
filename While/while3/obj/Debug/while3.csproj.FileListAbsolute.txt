@@ -1,0 +1,16 @@
+C:\Users\305\source\repos\While\while3\bin\Debug\while3.exe.config
+C:\Users\305\source\repos\While\while3\bin\Debug\while3.exe
+C:\Users\305\source\repos\While\while3\bin\Debug\while3.pdb
+C:\Users\305\source\repos\While\while3\obj\Debug\while3.csproj.AssemblyReference.cache
+C:\Users\305\source\repos\While\while3\obj\Debug\while3.csproj.SuggestedBindingRedirects.cache
+C:\Users\305\source\repos\While\while3\obj\Debug\while3.csproj.CoreCompileInputs.cache
+C:\Users\305\source\repos\While\while3\obj\Debug\while3.exe
+C:\Users\305\source\repos\While\while3\obj\Debug\while3.pdb
+F:\While\while3\bin\Debug\while3.exe.config
+F:\While\while3\bin\Debug\while3.exe
+F:\While\while3\bin\Debug\while3.pdb
+F:\While\while3\obj\Debug\while3.csproj.AssemblyReference.cache
+F:\While\while3\obj\Debug\while3.csproj.SuggestedBindingRedirects.cache
+F:\While\while3\obj\Debug\while3.csproj.CoreCompileInputs.cache
+F:\While\while3\obj\Debug\while3.exe
+F:\While\while3\obj\Debug\while3.pdb

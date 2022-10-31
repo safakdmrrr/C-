@@ -1,0 +1,8 @@
+C:\Users\305\source\repos\While\while2\bin\Debug\while2.exe.config
+C:\Users\305\source\repos\While\while2\bin\Debug\while2.exe
+C:\Users\305\source\repos\While\while2\bin\Debug\while2.pdb
+C:\Users\305\source\repos\While\while2\obj\Debug\while2.csproj.AssemblyReference.cache
+C:\Users\305\source\repos\While\while2\obj\Debug\while2.csproj.SuggestedBindingRedirects.cache
+C:\Users\305\source\repos\While\while2\obj\Debug\while2.csproj.CoreCompileInputs.cache
+C:\Users\305\source\repos\While\while2\obj\Debug\while2.exe
+C:\Users\305\source\repos\While\while2\obj\Debug\while2.pdb

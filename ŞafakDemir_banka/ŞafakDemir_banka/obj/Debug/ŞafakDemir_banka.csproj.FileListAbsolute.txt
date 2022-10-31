@@ -1,0 +1,8 @@
+C:\Users\safak\source\repos\ŞafakDemir_banka\ŞafakDemir_banka\bin\Debug\ŞafakDemir_banka.exe.config
+C:\Users\safak\source\repos\ŞafakDemir_banka\ŞafakDemir_banka\bin\Debug\ŞafakDemir_banka.exe
+C:\Users\safak\source\repos\ŞafakDemir_banka\ŞafakDemir_banka\bin\Debug\ŞafakDemir_banka.pdb
+C:\Users\safak\source\repos\ŞafakDemir_banka\ŞafakDemir_banka\obj\Debug\ŞafakDemir_banka.csproj.AssemblyReference.cache
+C:\Users\safak\source\repos\ŞafakDemir_banka\ŞafakDemir_banka\obj\Debug\ŞafakDemir_banka.csproj.SuggestedBindingRedirects.cache
+C:\Users\safak\source\repos\ŞafakDemir_banka\ŞafakDemir_banka\obj\Debug\ŞafakDemir_banka.csproj.CoreCompileInputs.cache
+C:\Users\safak\source\repos\ŞafakDemir_banka\ŞafakDemir_banka\obj\Debug\ŞafakDemir_banka.exe
+C:\Users\safak\source\repos\ŞafakDemir_banka\ŞafakDemir_banka\obj\Debug\ŞafakDemir_banka.pdb

@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Otomat\Otomat\bin\Debug\Otomat.exe.config
+C:\Users\LENOVO\source\repos\Otomat\Otomat\bin\Debug\Otomat.exe
+C:\Users\LENOVO\source\repos\Otomat\Otomat\bin\Debug\Otomat.pdb
+C:\Users\LENOVO\source\repos\Otomat\Otomat\obj\Debug\Otomat.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Otomat\Otomat\obj\Debug\Otomat.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Otomat\Otomat\obj\Debug\Otomat.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Otomat\Otomat\obj\Debug\Otomat.exe
+C:\Users\LENOVO\source\repos\Otomat\Otomat\obj\Debug\Otomat.pdb
+C:\Users\safak\OneDrive\Masaüstü\Otomat\Otomat\bin\Debug\Otomat.exe.config
+C:\Users\safak\OneDrive\Masaüstü\Otomat\Otomat\bin\Debug\Otomat.exe
+C:\Users\safak\OneDrive\Masaüstü\Otomat\Otomat\bin\Debug\Otomat.pdb
+C:\Users\safak\OneDrive\Masaüstü\Otomat\Otomat\obj\Debug\Otomat.csproj.AssemblyReference.cache
+C:\Users\safak\OneDrive\Masaüstü\Otomat\Otomat\obj\Debug\Otomat.csproj.SuggestedBindingRedirects.cache
+C:\Users\safak\OneDrive\Masaüstü\Otomat\Otomat\obj\Debug\Otomat.csproj.CoreCompileInputs.cache
+C:\Users\safak\OneDrive\Masaüstü\Otomat\Otomat\obj\Debug\Otomat.exe
+C:\Users\safak\OneDrive\Masaüstü\Otomat\Otomat\obj\Debug\Otomat.pdb

@@ -1,0 +1,8 @@
+C:\Users\305\source\repos\ConsoleApp1\do_while\bin\Debug\do_while.exe.config
+C:\Users\305\source\repos\ConsoleApp1\do_while\bin\Debug\do_while.exe
+C:\Users\305\source\repos\ConsoleApp1\do_while\bin\Debug\do_while.pdb
+C:\Users\305\source\repos\ConsoleApp1\do_while\obj\Debug\do_while.csproj.AssemblyReference.cache
+C:\Users\305\source\repos\ConsoleApp1\do_while\obj\Debug\do_while.csproj.SuggestedBindingRedirects.cache
+C:\Users\305\source\repos\ConsoleApp1\do_while\obj\Debug\do_while.csproj.CoreCompileInputs.cache
+C:\Users\305\source\repos\ConsoleApp1\do_while\obj\Debug\do_while.exe
+C:\Users\305\source\repos\ConsoleApp1\do_while\obj\Debug\do_while.pdb
