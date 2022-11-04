@@ -1,0 +1,8 @@
+C:\Users\safak\source\repos\carpma\carpma\bin\Debug\carpma.exe.config
+C:\Users\safak\source\repos\carpma\carpma\bin\Debug\carpma.exe
+C:\Users\safak\source\repos\carpma\carpma\bin\Debug\carpma.pdb
+C:\Users\safak\source\repos\carpma\carpma\obj\Debug\carpma.csproj.AssemblyReference.cache
+C:\Users\safak\source\repos\carpma\carpma\obj\Debug\carpma.csproj.SuggestedBindingRedirects.cache
+C:\Users\safak\source\repos\carpma\carpma\obj\Debug\carpma.csproj.CoreCompileInputs.cache
+C:\Users\safak\source\repos\carpma\carpma\obj\Debug\carpma.exe
+C:\Users\safak\source\repos\carpma\carpma\obj\Debug\carpma.pdb
