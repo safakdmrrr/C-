@@ -1,0 +1,8 @@
+C:\Users\safak\source\repos\rastgele_sayı\rastgele_sayı\bin\Debug\rastgele_sayı.exe.config
+C:\Users\safak\source\repos\rastgele_sayı\rastgele_sayı\bin\Debug\rastgele_sayı.exe
+C:\Users\safak\source\repos\rastgele_sayı\rastgele_sayı\bin\Debug\rastgele_sayı.pdb
+C:\Users\safak\source\repos\rastgele_sayı\rastgele_sayı\obj\Debug\rastgele_sayı.csproj.AssemblyReference.cache
+C:\Users\safak\source\repos\rastgele_sayı\rastgele_sayı\obj\Debug\rastgele_sayı.csproj.SuggestedBindingRedirects.cache
+C:\Users\safak\source\repos\rastgele_sayı\rastgele_sayı\obj\Debug\rastgele_sayı.csproj.CoreCompileInputs.cache
+C:\Users\safak\source\repos\rastgele_sayı\rastgele_sayı\obj\Debug\rastgele_sayı.exe
+C:\Users\safak\source\repos\rastgele_sayı\rastgele_sayı\obj\Debug\rastgele_sayı.pdb
